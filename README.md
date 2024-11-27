@@ -9,6 +9,6 @@ Le site 👉 [Ici 😁](https://exo-flexcards.vercel.app/)
 
 ## Captures d'écran
 
-![test](FlexCards1.PNG)
+![test](/FlexCards1.PNG)
 
 ## Fonctionnalités
